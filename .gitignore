@@ -1,0 +1,6 @@
+# file: gitignore local
+
+# intellij IDEA
+.idea
+*.class
+*.iml
